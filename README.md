@@ -4,8 +4,6 @@ Author: Chinny Igwuilo
 
 ---
 
-# ✅ **2. Model Selection for Logistic Regression – README.md**
-
 ```markdown
 # 🔍 Model Selection for Logistic Regression  
 
