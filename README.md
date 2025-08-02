@@ -36,5 +36,5 @@ This project demonstrates **hyperparameter tuning and model selection** for Logi
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/model-selection-logistic-regression.git
-   cd model-selection-logistic-regression
+   git clone [https://github.com/yourusername/model-selection-logistic-regression.git
+   cd model-selection-logistic-regression](https://github.com/ChinnyIgwuilo/Model-Selection-For-Logistic-Regression/blob/main/ModelSelectionForLogisticRegression.ipynb)
